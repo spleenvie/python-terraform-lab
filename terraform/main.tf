@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "local" {
-    path = "/home/vlad/teamcity-lab-state/terraform.tfstate"
+    path = "/home/teamcityagent/teamcity-lab-state/terraform.tfstate"
   }
 }
 
